@@ -84,6 +84,8 @@ Unlike visualization tools that rely on mocked data or hardcoded animations, **S
    - For deterministic replay, draws follow strict index ordering: for each iteration $t$, for each particle $i$, for each dimension $d$, draw $r_1$ then $r_2$.
 
 ---
+Deployed Link: https://swarm-verse.vercel.app/ 
+---
 
 ## 🛠️ Installation & Local Development
 
